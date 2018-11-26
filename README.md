@@ -37,7 +37,7 @@ output image=[64-3+2*1]/2 + 1 =21
 
 21 * 21 * 64
 
-We data generate from our image.
+We data generate for training our system.
 
 ```
 
