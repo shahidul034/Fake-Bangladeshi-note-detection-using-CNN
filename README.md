@@ -35,7 +35,7 @@ The spatial size of the output image can be calculated as( [W-F+2P]/S)+1. Here, 
 W=64 , F=3 ,P=0,S=2
 output image=[64-3+2*1]/2 + 1 =21
 
-21*21*64
+21 * 21 * 64
 
 We data generate from our image.
 
