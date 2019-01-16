@@ -75,5 +75,27 @@ classifier.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accur
 
 ![alt text](https://github.com/shahidul034/Fake-Bangladeshi-note-detection-/blob/master/pic/train.jpg)
 
+# Conclusion
+1.We have tried to develop a model that can verify a detect the fake currency of Bangladesh.
+
+2.Our designed model is applicable to only 100 tk for lacking dataset because it is difficult for us to collect 500 and 1000 tk
+# Limitation
+Here, we do not have real dataset we collect our own dataset  
+
+We just collect 100 tk because 500 tk is not available and we need up to 120 image for this.
+Because of dataset  it affects of our accuracy
+# Future Work
+If we increase our dataset,it helps us to increase our accuracy
+
+If anyone collect 500 and 1000 tk,he can use our model to train and test their dataset.
+# References
+[1] Fake Currency Detection Using Image Processing and OtherStandard MethodsD.Alekhya , G.DeviSuryaPrabha , G.VenkataDurgaRao 
+[2] Image Processing Based Feature Extraction ofBangladeshi BanknotesZahid Ahmed, Sabina Yasmin, Md Nahidul Islam, Raihan Uddin Ahmed 
+[3] Currency Recognition System Using Image ProcessingS. M. Saifullah1, AnikaRahmanAnanna2, Md. Shakhawat Hossain3, Md. JaouadHossain4,Md. SaniatRahman Zishan5 [4] Image-Based Approach for the Detection ofCounterfeit Banknotes of BangladeshMohammad Shorif Uddin, Pronaya Prosun Das, Md. Shamim Ahmed Roney 
+[4] Detection of Fake Indian Currency ‘’ Gouri Sanjay Tele’’
+[5]https://www.analyticsvidhya.com/blog/2017/06/architecture-of-convolutional-neural-networks-simplified-demystified/?fbclid=IwAR2s_ZCYE7pUPtVtiVkHWnhbkbHJuJtDMsdZJ80S3ZjT5f4g4xxuQ3YhwRU
+[6] https://becominghuman.ai/building-an-image-classifier-using-deep-learning-in-python-totally-from-a-beginners-perspective-be8dbaf22dd8
+[7] https://keras.io/models/sequential/
+[8] https://www.coursera.org/specializations/deep-learning
 
 
