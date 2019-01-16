@@ -62,3 +62,12 @@ classifier.add(Dense(units=1, activation='sigmoid'))
 
 classifier.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
 ```
+#Flow Diagram
+
+![alt text](https://github.com/shahidul034/Fake-Bangladeshi-note-detection-/blob/master/pic/flow%20diagram.jpg)
+![alt text](https://github.com/shahidul034/Fake-Bangladeshi-note-detection-/blob/master/pic/flow%20diagram2.jpg)
+![alt text](https://github.com/shahidul034/Fake-Bangladeshi-note-detection-/blob/master/pic/take%20flow%20diagram.jpg)
+![alt text](https://github.com/shahidul034/Fake-Bangladeshi-note-detection-/blob/master/pic/test.jpg)
+![alt text](https://github.com/shahidul034/Fake-Bangladeshi-note-detection-/blob/master/pic/test2.jpg)
+![alt text](https://github.com/shahidul034/Fake-Bangladeshi-note-detection-/blob/master/pic/train.jpg)
+
