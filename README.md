@@ -1,4 +1,5 @@
 # Fake-Bangladeshi-note-detection-
+
 ## main.py
 In this section ,we train our fake and real note using convulational neural network which implemented by keras framework.
 
@@ -62,12 +63,17 @@ classifier.add(Dense(units=1, activation='sigmoid'))
 
 classifier.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
 ```
-#Flow Diagram
-
-![alt text](https://github.com/shahidul034/Fake-Bangladeshi-note-detection-/blob/master/pic/flow%20diagram.jpg)
+```
+# Flow diagram
 ![alt text](https://github.com/shahidul034/Fake-Bangladeshi-note-detection-/blob/master/pic/flow%20diagram2.jpg)
+
 ![alt text](https://github.com/shahidul034/Fake-Bangladeshi-note-detection-/blob/master/pic/take%20flow%20diagram.jpg)
+
 ![alt text](https://github.com/shahidul034/Fake-Bangladeshi-note-detection-/blob/master/pic/test.jpg)
+
 ![alt text](https://github.com/shahidul034/Fake-Bangladeshi-note-detection-/blob/master/pic/test2.jpg)
+
 ![alt text](https://github.com/shahidul034/Fake-Bangladeshi-note-detection-/blob/master/pic/train.jpg)
+
+
 
