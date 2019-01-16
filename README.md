@@ -90,12 +90,21 @@ If we increase our dataset,it helps us to increase our accuracy
 If anyone collect 500 and 1000 tk,he can use our model to train and test their dataset.
 # References
 [1] Fake Currency Detection Using Image Processing and OtherStandard MethodsD.Alekhya , G.DeviSuryaPrabha , G.VenkataDurgaRao 
+
 [2] Image Processing Based Feature Extraction ofBangladeshi BanknotesZahid Ahmed, Sabina Yasmin, Md Nahidul Islam, Raihan Uddin Ahmed 
-[3] Currency Recognition System Using Image ProcessingS. M. Saifullah1, AnikaRahmanAnanna2, Md. Shakhawat Hossain3, Md. JaouadHossain4,Md. SaniatRahman Zishan5 [4] Image-Based Approach for the Detection ofCounterfeit Banknotes of BangladeshMohammad Shorif Uddin, Pronaya Prosun Das, Md. Shamim Ahmed Roney 
-[4] Detection of Fake Indian Currency ‘’ Gouri Sanjay Tele’’
-[5]https://www.analyticsvidhya.com/blog/2017/06/architecture-of-convolutional-neural-networks-simplified-demystified/?fbclid=IwAR2s_ZCYE7pUPtVtiVkHWnhbkbHJuJtDMsdZJ80S3ZjT5f4g4xxuQ3YhwRU
-[6] https://becominghuman.ai/building-an-image-classifier-using-deep-learning-in-python-totally-from-a-beginners-perspective-be8dbaf22dd8
-[7] https://keras.io/models/sequential/
-[8] https://www.coursera.org/specializations/deep-learning
+
+[3] Currency Recognition System Using Image ProcessingS. M. Saifullah1, AnikaRahmanAnanna2, Md. Shakhawat Hossain3, Md. JaouadHossain4,Md. SaniatRahman Zishan5 
+
+[4] Image-Based Approach for the Detection ofCounterfeit Banknotes of BangladeshMohammad Shorif Uddin, Pronaya Prosun Das, Md. Shamim Ahmed Roney 
+
+[5] Detection of Fake Indian Currency ‘’ Gouri Sanjay Tele’’
+
+[6]https://www.analyticsvidhya.com/blog/2017/06/architecture-of-convolutional-neural-networks-simplified-demystified/?fbclid=IwAR2s_ZCYE7pUPtVtiVkHWnhbkbHJuJtDMsdZJ80S3ZjT5f4g4xxuQ3YhwRU
+
+[7] https://becominghuman.ai/building-an-image-classifier-using-deep-learning-in-python-totally-from-a-beginners-perspective-be8dbaf22dd8
+
+[8] https://keras.io/models/sequential/
+
+[9] https://www.coursera.org/specializations/deep-learning
 
 
